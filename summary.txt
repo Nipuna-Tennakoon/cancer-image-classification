@@ -1,0 +1,7 @@
+The project summarize here.
+
+training notebook
+- import csv file and created data frame using meta data
+- analyze the metadata and observe class imabalance in the original data set
+- downsampling technique is used to balance the classes in the data set
+- created new image folder copying the images having in the downsampled data frame
